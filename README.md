@@ -2,6 +2,12 @@
 
 Ce projet propose un assistant intelligent pour analyser et générer automatiquement des appels d’offres, en s’appuyant sur un corpus existant. L'application permet de visualiser, structurer, et enrichir les AO grâce au NLP et au clustering, tout en offrant la possibilité de générer de nouveaux documents via un LLM.
 
+⚠️ **Note importante sur la génération via LLM**  
+La génération automatique d'AO via OpenAI (GPT-4) est désactivée par défaut dans ce projet car je ne dispose pas actuellement des quotas nécessaires.  
+Cependant, le code est **déjà présent et commenté**, prêt à être activé si une clé API est disponible.  
+👉 En attendant, il est possible de **tester le projet en ajoutant des AO manuellement** via l'interface Streamlit.
+
+
 ##  Objectifs
 
 - Analyser automatiquement un corpus d’appels d’offres (AO)
