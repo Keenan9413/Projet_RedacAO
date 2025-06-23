@@ -23,5 +23,5 @@ Ce projet propose un assistant intelligent pour analyser et générer automatiqu
 1. **Cloner le dépôt**
 
 ```bash
-git clone https://github.com/<ton_utilisateur>/ao-assistant.git
-cd ao-assistant
+git clone https://github.com/Keenan9413/Projet_RedacAO.git
+cd Projet_RedacAO
