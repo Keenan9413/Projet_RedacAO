@@ -1,0 +1,219 @@
+[
+  {
+    "id": "a1b2c3d4e5f67890123456789abcdef012345678",
+    "title": "Construction d'un gymnase municipal",
+    "publication_date": "2025-06-23",
+    "procedure_type": "Bâtiment et travaux publics",
+    "organism": "Mairie de Paris",
+    "location": "Paris",
+    "description": "Construction d'un gymnase municipal"
+  },
+  {
+    "id": "b3c4d5e6f7890123456789abcdef0123456789abc",
+    "title": "Rénovation énergétique de l’école élémentaire Jean Moulin",
+    "publication_date": "2025-06-01",
+    "procedure_type": "APPEL D'OFFRES OUVERT",
+    "organism": "Mairie de Lille",
+    "location": "Lille",
+    "description": "Le présent marché concerne les travaux de rénovation énergétique de l’école Jean Moulin à Lille, comprenant l’isolation thermique des façades, le remplacement des menuiseries extérieures, la modernisation du système de chauffage ainsi que l’installation de panneaux solaires en toiture. Les travaux devront respecter les normes environnementales en vigueur, notamment la RE2020."
+  },
+  {
+    "id": "c5d6e7f8a90123456789abcdef0123456789abcd1",
+    "title": "Aménagement d’un parc écologique",
+    "publication_date": "2024-04-15",
+    "procedure_type": "Appel d'offres ouvert",
+    "organism": "Ville de Lyon",
+    "location": "Lyon",
+    "description": "Réalisation d’un parc urbain incluant des cheminements piétons, aires de jeux, plantations locales, mobilier durable et zones ombragées."
+  },
+  {
+    "id": "d7e8f9a0b123456789abcdef0123456789abcd123",
+    "title": "Réhabilitation de l’école primaire Victor Hugo",
+    "publication_date": "2024-03-20",
+    "procedure_type": "Marche négocié ",
+    "organism": "Mairie de Bordeaux",
+    "location": "Bordeaux",
+    "description": "Travaux de rénovation énergétique, accessibilité, réaménagement des salles de classe, remplacement des menuiseries et mise aux normes."
+  },
+  {
+    "id": "e9f0a1b2c3456789abcdef0123456789abcd12345",
+    "title": "Fourniture de mobilier pour médiathèque",
+    "publication_date": "2024-05-10",
+    "procedure_type": "Appel d'offres restreint ",
+    "organism": "Agglomération du Grand Nancy",
+    "location": "Nancy",
+    "description": "Achat et installation de mobilier (étagères, assises, tables de lecture) pour l’aménagement d’une médiathèque de quartier."
+  },
+  {
+    "id": "f1a2b3c4d56789abcdef0123456789abcd1234567",
+    "title": "Installation de conteneurs enterrés pour déchets",
+    "publication_date": "2024-01-25",
+    "procedure_type": "Ouvert",
+    "organism": "Communauté de Communes Sud Ardèche",
+    "location": "Aubenas",
+    "description": "Fourniture et pose de conteneurs enterrés pour déchets ménagers et tri sélectif sur 10 sites."
+  },
+  {
+    "id": "a2b3c4d5e6789abcdef0123456789abcd12345678",
+    "title": "Travaux d’assainissement – Rue du Canal",
+    "publication_date": "2024-02-12",
+    "procedure_type": "Marche simple",
+    "organism": "Ville de Roubaix",
+    "location": "Roubaix",
+    "description": "Remplacement du réseau d’assainissement, curage, réfection de la voirie et raccordement aux habitations."
+  },
+  {
+    "id": "b4c5d6e7f789abcdef0123456789abcd123456789",
+    "title": "Maintenance du réseau de vidéosurveillance",
+    "publication_date": "2024-04-05",
+    "procedure_type": "Accord cadre",
+    "organism": "Métropole de Lille",
+    "location": "Lille",
+    "description": "Contrat de maintenance préventive et curative du système de vidéosurveillance urbaine, incluant extensions."
+  },
+  {
+    "id": "c6d7e8f9a89abcdef0123456789abcd1234567890",
+    "title": "Travaux de rénovation énergétique – bâtiments municipaux",
+    "publication_date": "2024-05-22",
+    "procedure_type": "Marche global",
+    "organism": "Mairie de Clermont-Ferrand",
+    "location": "Clermont-Ferrand",
+    "description": "Isolation thermique, remplacement de chaudières, installation de panneaux photovoltaïques sur les toits des écoles et gymnases."
+  },
+  {
+    "id": "d8e9f0a1b9abcdef0123456789abcd12345678901",
+    "title": "Fourniture de repas scolaires bio",
+    "publication_date": "2024-02-28",
+    "procedure_type": "Appel d'offres ouvert",
+    "organism": "Ville de Strasbourg",
+    "location": "Strasbourg",
+    "description": "Livraison quotidienne de repas scolaires préparés à base de produits bio et locaux, pour 5 écoles maternelles et primaires."
+  },
+  {
+    "id": "e1f2a3b4c5d67890abcdef0123456789abcd123456",
+    "title": "Aménagement de deux aires d'accueil pour les gens du voyage sur les communes de Vertou et de Basse-Goulaine",
+    "publication_date": "2024-02-28",
+    "procedure_type": "OUVERT",
+    "organism": "Communauté de Communes Sud Ardèche",
+    "location": "Vertou",
+    "description": "Aménagement de deux aires d'accueil pour les gens du voyage sur les communes de Vertou et de Basse-Goulaine."
+  },
+  {
+    "id": "f2a3b4c5d67890abcdef0123456789abcd12345678",
+    "title": "Conteneurs enterrés et semi enterrés pour collecte déchets ménagers et tri sélectif à Saint Céré",
+    "publication_date": "2024-03-15",
+    "procedure_type": "OUVERT",
+    "organism": "Communauté de Communes du Pays de Saint Céré",
+    "location": "Saint Céré",
+    "description": "Fourniture et installation de conteneurs enterrés et semi-enterrés pour collecte des déchets ménagers et tri sélectif."
+  },
+  {
+    "id": "a3b4c5d67890abcdef0123456789abcd1234567890",
+    "title": "Amélioration de la voirie départementale - programme 2010 - RD 131 - reconstruction de la chaussée entre les P.R. 1+0737 et 2+0564 sur le territoire de la Commune de Grande Synthe",
+    "publication_date": "2024-04-01",
+    "procedure_type": "OUVERT",
+    "organism": "Conseil Départemental du Nord",
+    "location": "Grande Synthe",
+    "description": "Reconstruction complète de la chaussée départementale RD 131 sur plusieurs tronçons, incluant renforcement et réfection."
+  },
+  {
+    "id": "b4c5d67890abcdef0123456789abcd1234567890ab",
+    "title": "Exploitation de la station d'épuration de Saint Fons",
+    "publication_date": "2024-04-10",
+    "procedure_type": "OUVERT",
+    "organism": "Communauté Urbaine de Lyon",
+    "location": "Saint Fons",
+    "description": "Gestion et exploitation de la station d'épuration, maintenance des équipements et respect des normes environnementales."
+  },
+  {
+    "id": "c5d67890abcdef0123456789abcd1234567890abcd",
+    "title": "Travaux divers dans le cadre du réaménagement de la salle de conférence de l'usine d'eau potable à Choisy-Le-Roi",
+    "publication_date": "2024-04-15",
+    "procedure_type": "MARCHE_NEGOCIE",
+    "organism": "Mairie de Choisy-Le-Roi",
+    "location": "Choisy-Le-Roi",
+    "description": "Réaménagement complet de la salle de conférence, incluant mise aux normes électriques et amélioration acoustique."
+  },
+  {
+    "id": "d67890abcdef0123456789abcd1234567890abcde",
+    "title": "RD 2 - renforcement de la couche de roulement du PR 24 au PR 26 à Saint Saturnin les Apt",
+    "publication_date": "2024-04-20",
+    "procedure_type": "OUVERT",
+    "organism": "Conseil Départemental du Vaucluse",
+    "location": "Saint Saturnin les Apt",
+    "description": "Renforcement de la couche de roulement sur la RD 2 entre les points de repère 24 et 26, avec travaux de finition."
+  },
+  {
+    "id": "e7890abcdef0123456789abcd1234567890abcdef0",
+    "title": "Réhabilitation de la station d'épuration de Bagnols sur Cèze",
+    "publication_date": "2024-04-25",
+    "procedure_type": "MARCHE_GLOBAL",
+    "organism": "Communauté d'agglomération du Gard Rhodanien",
+    "location": "Bagnols sur Cèze",
+    "description": "Réhabilitation complète de la station d'épuration, incluant amélioration des bassins et installation de nouvelles technologies."
+  },
+  {
+    "id": "f890abcdef0123456789abcd1234567890abcdef01",
+    "title": "Gestion des déchets ménagers pour la ville de Chateauroux",
+    "publication_date": "2024-05-01",
+    "procedure_type": "OUVERT",
+    "organism": "Ville de Chateauroux",
+    "location": "Chateauroux",
+    "description": "Gestion, collecte et traitement des déchets ménagers, avec respect des normes environnementales et optimisation du tri."
+  },
+  {
+    "id": "a90abcdef0123456789abcd1234567890abcdef012",
+    "title": "Travaux d'assainissement sur la commune de Montauban",
+    "publication_date": "2024-05-05",
+    "procedure_type": "MARCHE_SIMPLE",
+    "organism": "Mairie de Montauban",
+    "location": "Montauban",
+    "description": "Réhabilitation et extension du réseau d'assainissement sur plusieurs quartiers de la commune."
+  },
+  {
+    "id": "b0abcdef0123456789abcd1234567890abcdef0123",
+    "title": "Entretien des espaces verts pour la ville de Nantes",
+    "publication_date": "2024-05-10",
+    "procedure_type": "MARCHE_NEGOCIE",
+    "organism": "Ville de Nantes",
+    "location": "Nantes",
+    "description": "Contrat annuel d'entretien des espaces verts publics, incluant tonte, taille, plantations et traitement phytosanitaire."
+  },
+  {
+    "id": "c1abcdef0123456789abcd1234567890abcdef01234",
+    "title": "Fourniture de matériel informatique pour les écoles de Toulouse",
+    "publication_date": "2024-05-15",
+    "procedure_type": "APPEL D'OFFRES OUVERT",
+    "organism": "Mairie de Toulouse",
+    "location": "Toulouse",
+    "description": "Fourniture de postes informatiques, tablettes et accessoires pour équiper les écoles primaires de la ville."
+  },
+  {
+    "id": "d2abcdef0123456789abcd1234567890abcdef012345",
+    "title": "Construction d'une piste cyclable à Marseille",
+    "publication_date": "2024-05-20",
+    "procedure_type": "MARCHE GLOBAL",
+    "organism": "Métropole Aix-Marseille-Provence",
+    "location": "Marseille",
+    "description": "Création d'une piste cyclable sécurisée sur 5 km, incluant signalisation et aménagements paysagers."
+  },
+  {
+    "id": "e3abcdef0123456789abcd1234567890abcdef0123456",
+    "title": "Rénovation du réseau d'éclairage public à Rennes",
+    "publication_date": "2024-05-25",
+    "procedure_type": "APPEL D'OFFRES RESTREINT",
+    "organism": "Métropole Rennes",
+    "location": "Rennes",
+    "description": "Remplacement des luminaires par des LED basse consommation sur l'ensemble du réseau public."
+  },
+  {
+    "id": "f4abcdef0123456789abcd1234567890abcdef01234567",
+    "title": "Service de nettoyage des bâtiments municipaux à Nice",
+    "publication_date": "2024-05-30",
+    "procedure_type": "MARCHE NEGOCIE",
+    "organism": "Ville de Nice",
+    "location": "Nice",
+    "description": "Prestation de nettoyage quotidien des bâtiments publics, bureaux et espaces communs."
+  }
+ 
+]
