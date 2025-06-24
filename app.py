@@ -7,9 +7,13 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 import plotly.express as px
 import spacy
+import os
+from dotenv import load_dotenv
 
-# Charger le modèle spaCy français
 nlp = spacy.load("fr_core_news_sm")
+
+# Charger les variables d'environnement depuis le fichier .env
+load_dotenv()
 
 # Nettoyage et lemmatisation du texte avec spaCy
 def nettoyer_texte_spacy(text):
@@ -126,11 +130,12 @@ def generer_figure(corpus, X_reduced):
 
 # Fonction LLM désactivée par défaut
 def generer_ao_via_llm(titre, procedure, contraintes):
-    """
-    # Pour activer la génération LLM, décommenter et insérer la clé API
+    
     import openai
-    openai.api_key = "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
-"
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        return "[Génération LLM désactivée - Insérer votre clé OpenAI]"
+    openai.api_key = api_key
     prompt = f"Génère un appel d'offre avec le titre '{titre}', procédure '{procedure}' et contraintes : {contraintes}."
     try:
         response = openai.ChatCompletion.create(
@@ -141,9 +146,8 @@ def generer_ao_via_llm(titre, procedure, contraintes):
         return response.choices[0].message.content.strip()
     except Exception as e:
         return f"Erreur génération LLM : {e}"
-    """
-    return "[Génération LLM désactivée - Insérer votre clé OpenAI]"
 
+        
 def main():
     st.title("Assistant d’analyse et génération d’Appels d’Offres (BOAMP)")
 
@@ -234,3 +238,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
