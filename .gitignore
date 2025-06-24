@@ -1,0 +1,6 @@
+# Ignorer l'environnement virtuel et fichiers inutiles
+venv/
+__pycache__/
+*.pyc
+.env
+Projet NLP.pdf
